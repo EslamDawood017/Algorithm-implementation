@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688413762 source:c:\users\user\desktop\metwallylab\algorithm-implementation\insertionsort\main.cpp
+	<iostream>
+	<vector>
+
