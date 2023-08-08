@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\bin\Debug\Knapsack Problem.exe.config
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\bin\Debug\Knapsack Problem.exe
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\bin\Debug\Knapsack Problem.pdb
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\obj\Debug\Knapsack Problem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\obj\Debug\Knapsack Problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\obj\Debug\Knapsack Problem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\obj\Debug\Knapsack Problem.exe
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Knapsack Problem\obj\Debug\Knapsack Problem.pdb

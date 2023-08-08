@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\bin\Debug\Sorted Characters Frequencies–Algorithm.exe.config
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\bin\Debug\Sorted Characters Frequencies–Algorithm.exe
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\bin\Debug\Sorted Characters Frequencies–Algorithm.pdb
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\obj\Debug\Sorted Characters Frequencies–Algorithm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\obj\Debug\Sorted Characters Frequencies–Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\obj\Debug\Sorted Characters Frequencies–Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\obj\Debug\Sorted Characters Frequencies–Algorithm.exe
+C:\Users\user\Desktop\MetwallyLab\Algorithm-implementation\Sorted Characters Frequencies–Algorithm\obj\Debug\Sorted Characters Frequencies–Algorithm.pdb
